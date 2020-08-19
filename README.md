@@ -7,13 +7,13 @@ Example data science portfolio
 
 1. This Repository contains Files related to Model Building and Deployment using Flask and Heroku.
 
-2. In this project I have predicted the Car price given the data.
+2. In this project I have predicted the Car price given the data from kaggle.
 
-3. Used Ramdom Forest Regressor for model building
+3. Used **Ramdom Forest Regressor** for model building
 
-4. I got the RMSE score of -- 2.005.
+4. I got the **RMSE score of -- 2.005**.
 
-![](/images/dist.png)
+![](/images/scatter.png)
 
 
 
@@ -26,4 +26,4 @@ Example data science portfolio
 
 3. Used various NLP techniques for creating the corpus and text cleaning.
 
-4. I was able to achieve an accuracy of 78.05% using Multinomial Naive Bayes theorem.
+4. I was able to achieve an accuracy of **78.05%** using **Multinomial Naive Bayes theorem**.
