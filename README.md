@@ -13,7 +13,7 @@ Example data science portfolio
 
 4. I got the RMSE score of -- 2.005.
 
-![](https://github.com/dishaaagarwal/Dishaa_Porfolio/blob/master/images/dist.png)
+![](/images/dist.png)
 
 
 
