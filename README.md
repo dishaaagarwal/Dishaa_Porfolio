@@ -13,10 +13,12 @@ Example data science portfolio
 
 4. I got the RMSE score of -- 2.005.
 
+![](https://github.com/dishaaagarwal/Dishaa_Porfolio/blob/master/images/dist.png)
 
 
 
-# [Project2 -Restaurant-Review-Prediction](https://github.com/dishaaagarwal/Restaurant-Review-Prediction)
+
+# [Project 2 -Restaurant-Review-Prediction](https://github.com/dishaaagarwal/Restaurant-Review-Prediction)
 
 1. The repository contains files regarding the Model Buliding and Deployment using Flask and Heroku.
 
