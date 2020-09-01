@@ -13,6 +13,8 @@ Example data science portfolio
 
 4. I got the **RMSE score of -- 2.005**.
 
+5. [Web Deployment Link](https://car-price-prediction-model.herokuapp.com/)
+
 ![](/images/scatter.png)
 
 
