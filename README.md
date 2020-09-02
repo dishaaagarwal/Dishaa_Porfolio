@@ -34,7 +34,6 @@ Example data science portfolio
 
 
 
-
 # [Project 3 -Diabetes-Prediction](https://github.com/dishaaagarwal/Diabetes-Prediction)
 
 1. This Repository contains Files related to Model Building and Deployment using Flask and Heroku.
@@ -46,3 +45,7 @@ Example data science portfolio
 4. I got the accuracy score of **86%**.
 
 5. [Web deployment link](https://diabetes-prediction-2020.herokuapp.com/)
+
+6.![](/images/heatmap.png)
+
+7. ![](/images/feature_imp.png)
