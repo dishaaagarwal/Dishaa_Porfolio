@@ -31,3 +31,18 @@ Example data science portfolio
 4. I was able to achieve an accuracy of **78.05%** using **Multinomial Naive Bayes theorem**.
 
 5. [Web Deployment Link](https://restaurant-review-2020.herokuapp.com/)
+
+
+
+
+# [Project 3 -Diabetes-Prediction](https://github.com/dishaaagarwal/Diabetes-Prediction)
+
+1. This Repository contains Files related to Model Building and Deployment using Flask and Heroku.
+
+2. In this project I have predicted whether the person has **Diabetes or Not** given the data.
+
+3. Used Ramdom Forest Classifier for model building along with Cross Validation techniques.
+
+4. I got the accuracy score of **86%**.
+
+5. [Web deployment link](https://diabetes-prediction-2020.herokuapp.com/)
