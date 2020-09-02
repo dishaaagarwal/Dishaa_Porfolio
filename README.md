@@ -46,6 +46,6 @@ Example data science portfolio
 
 5. [Web deployment link](https://diabetes-prediction-2020.herokuapp.com/)
 
-6.![](/images/heatmap.png)
+![](/images/heatmap.png)
 
-7. ![](/images/feature_imp.png)
+![](/images/feature_imp.png)
