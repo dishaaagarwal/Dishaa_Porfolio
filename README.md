@@ -54,7 +54,7 @@ Example data science portfolio
 
 
 
-# [Project 4 -Movie-Genre-Prediction]
+# [Project 4 -Movie-Genre-Prediction](https://github.com/dishaaagarwal/Movie-Genre-Prediction)
 
 1. This repository consist of files regarding the development of Model to predict the Movie Genre then deployed using the Flask and Heroku.
 
